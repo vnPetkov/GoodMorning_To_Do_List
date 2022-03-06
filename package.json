@@ -1,0 +1,16 @@
+{
+  "name": "Task-List",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d assets"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage:" : "http://vnPetkov.github.io/GoodMorning_To_Do_List",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
